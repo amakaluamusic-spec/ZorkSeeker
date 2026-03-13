@@ -133,8 +133,11 @@ The release `.zip` is **password-protected**. To get the password:
 chmod +x install.sh
 bash install.sh
 
-# 2. Launch
-python3 zorktracker.py
+# 2. Install Requirements
+pip install -r requirements.txt
+
+#3 Run the Script
+python zorktracker.py
 ```
 
 ### 🪟 Windows
