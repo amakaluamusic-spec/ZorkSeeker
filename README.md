@@ -91,18 +91,18 @@ Built from scratch with a modular Python architecture, it works seamlessly acros
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  DEVICE FINGERPRINT          NETWORK & LOCATION             ║
-║  ─────────────────           ──────────────────             ║
-║  • Operating System          • GPS Coordinates (lat/lon)    ║
-║  • Browser & Version         • Accuracy & Altitude          ║
-║  • CPU Cores & RAM           • Speed & Direction            ║
-║  • GPU Vendor & Renderer     • Public & Local IP            ║
-║  • Screen Resolution         • ISP & Organization           ║
-║  • Canvas Fingerprint        • Country / Region / City      ║
-║  • Audio Fingerprint         • Connection Type & Speed      ║
-║  • Touch Support             • Timezone & Language          ║
-║  • Battery Level             • VPN/Proxy Detection          ║
-║  • Camera/Mic/Speaker Count  • Ad Blocker Status            ║
+║  DEVICE FINGERPRINT          NETWORK & LOCATION             
+║  ─────────────────           ──────────────────             
+║  • Operating System          • GPS Coordinates (lat/lon)    
+║  • Browser & Version         • Accuracy & Altitude          
+║  • CPU Cores & RAM           • Speed & Direction            
+║  • GPU Vendor & Renderer     • Public & Local IP            
+║  • Screen Resolution         • ISP & Organization           
+║  • Canvas Fingerprint        • Country / Region / City      
+║  • Audio Fingerprint         • Connection Type & Speed      
+║  • Touch Support             • Timezone & Language          
+║  • Battery Level             • VPN/Proxy Detection          
+║  • Camera/Mic/Speaker Count  • Ad Blocker Status            
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
